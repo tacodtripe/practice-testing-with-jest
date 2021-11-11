@@ -1,0 +1,23 @@
+{
+  "name": "practice-testing-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacodtripe/practice-testing-with-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tacodtripe/practice-testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/tacodtripe/practice-testing-with-jest#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
