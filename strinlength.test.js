@@ -1,4 +1,4 @@
-const stringLength = require('./index');
+const stringLength = require('./stringlength');
 
 
 test('it returns the character count', () => {
